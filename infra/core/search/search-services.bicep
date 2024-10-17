@@ -1,4 +1,4 @@
-metadata description = 'Creates an Azure AI Search instance 2.'
+metadata description = 'Creates an Azure AI Search instance 3.'
 param name string
 param location string = resourceGroup().location
 param tags object = {}
